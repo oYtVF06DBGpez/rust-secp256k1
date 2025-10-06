@@ -817,3 +817,5 @@ The optimizations in sections 3-7 above are described in the context of the orig
 in the C implementation we also adapt most of them (not including "avoiding modulus operations",
 since it's not necessary to track *d, e*, and "constant-time operation", since we never calculate
 Jacobi symbols for secret data) to the posdivsteps version.
+
+<!-- Auto-update: 2025-10-06T17:54:04.198384 -->
