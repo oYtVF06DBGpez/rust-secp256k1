@@ -106,3 +106,5 @@ These tests are *exhaustive* since they provide all elements and scalars of the 
 ### Benchmarks
 
 See `src/bench*.c` for examples of benchmarks.
+
+<!-- Auto-update: 2025-10-09T21:18:36.327914 -->
