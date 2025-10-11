@@ -53,3 +53,5 @@
 * Allow all-zeroes `Message` [to be constructed](https://github.com/rust-bitcoin/rust-secp256k1/pull/207)
 * Expose `secp256k1_ec_pubkey_negate` [from upstream](https://github.com/rust-bitcoin/rust-secp256k1/pull/222)
 
+
+<!-- Auto-update: 2025-10-11T13:04:28.708088 -->
